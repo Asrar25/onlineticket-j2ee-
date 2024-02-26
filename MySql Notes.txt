@@ -1,0 +1,13 @@
+This is the table for User login and Creating account to perform login operation from Mysql databases
+
+DataBase name - asrar
+Table name - userregister
+
+
+mysql> select * from userregister;
++------------+-----------+------------+-----------------------+------------+-----------+------------+
+| First_name | Last_name | Dob        | Mail_id               | Mobile_no  | User_name | Password   |
++------------+-----------+------------+-----------------------+------------+-----------+------------+
+| Asrar      | A         | 2003-01-09 | asaasrar786@gmail.com | 8122481515 | Asrar05   | Asrar3001@ |
++------------+-----------+------------+-----------------------+------------+-----------+------------+
+1 row in set (0.05 sec)
